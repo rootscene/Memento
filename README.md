@@ -4,7 +4,7 @@
 
 [Korean README / 한국어 버전 README](./README_ko.md)
 
-`memento` is a reusable Codex skill for storing repository-specific "do-not-repeat" rules in a single file and reusing them before future work.
+`memento` is a reusable Agent skill for storing repository-specific "do-not-repeat" rules in a single file and reusing them before future work.
 
 ## What It Does
 
